@@ -2,7 +2,7 @@
 
 _Coded live on WarsawJS 43 Live Workshop, 2020-04-19_
 
-Created to present main Vue concepts, like components & their communication, REST endpoint fetches.
+Created to present main Vue concepts, like components, state management and fetching data from REST servers.
 
 ## Project setup
 
